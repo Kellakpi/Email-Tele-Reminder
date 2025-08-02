@@ -41,7 +41,7 @@ Then create an .env file in the folder, and inside it add a variable with the to
 Like this:
 
 EMAIL_ADDRESS=your_email@gmail.com - 
-\nEMAIL_PASSWORD=**your_gmail_app_password**
+EMAIL_PASSWORD=**your_gmail_app_password**
 
 TELEGRAM_BOT_TOKEN=**your_telegram_bot_token** - 
 TELEGRAM_CHAT_ID=**123456789**
