@@ -32,7 +32,7 @@ The script:
 - Telegram bot (created via [BotFather](https://t.me/BotFather))
 - Your chat ID (use [@userinfobot](https://t.me/userinfobot) to find it) - userinfobot = ur bot **Information**
 
-Install Dependencies: 
+Install Dependencies:
 
 '''bash 
 >pip install python-dotenv schedule requests **To use the .env to keep ur info secure**
