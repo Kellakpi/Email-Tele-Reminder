@@ -35,23 +35,23 @@ The script:
 Install Dependencies: 
 
 '''bash 
->>>pip install python-dotenv schedule requests **To use the .env to keep ur info secure**
+>pip install python-dotenv schedule requests **To use the .env to keep ur info secure**
 
 Then create an .env file in the folder, and inside it add a variable with the token and ID, aswell as the gmail email, and App password.
 Like this:
 
 EMAIL_ADDRESS=your_email@gmail.com - 
-EMAIL_PASSWORD=your_gmail_app_password
+EMAIL_PASSWORD=**your_gmail_app_password**
 
-TELEGRAM_BOT_TOKEN=your_telegram_bot_token - 
-TELEGRAM_CHAT_ID=123456789
+TELEGRAM_BOT_TOKEN=**your_telegram_bot_token** - 
+TELEGRAM_CHAT_ID=**123456789**
 
 # Usage
 
 To run it:
 
 '''bash 
->>>python emailerMain.py
+>python emailerMain.py
 
 # TO-DO(eventually)
 
